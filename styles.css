@@ -7,9 +7,15 @@ body {
     width: 50vh;
   
     /* image de background */
-    background-image: url("img/bg-1.png");
+    background-image: url("img/bg-2-2.png");
 
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+  .btn-primary {
+    background-color: #a8293c;
+    border-color: #a8293c;
+  }
+
