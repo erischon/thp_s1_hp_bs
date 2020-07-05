@@ -1,5 +1,6 @@
 body {
   background: #8e7a3d;
+  margin: 0;
 }
 
 .img-hero {
@@ -28,5 +29,14 @@ body {
   .btn-primary {
     background-color: #a8293c;
     border-color: #a8293c;
+  }
+
+
+
+  .wave-container {
+    background: #ffffff;
+  }
+  .wave-container > svg {
+    display: block;
   }
 
