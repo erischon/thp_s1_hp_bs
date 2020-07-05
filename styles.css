@@ -14,6 +14,17 @@ body {
     background-size: cover;
   }
 
+  .img-bg-header {
+
+    /* image de background */
+    background-image: url("img/bg-header-2.png");
+
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
   .btn-primary {
     background-color: #a8293c;
     border-color: #a8293c;
